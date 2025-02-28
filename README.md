@@ -1,5 +1,7 @@
 # Sistema de Coordenadas BGrid
 
+![images/bgrid_general.png](images/bgrid_general.png)
+
 ## Web para su testeo: https://bgrid.org
 
 ## Resumen
