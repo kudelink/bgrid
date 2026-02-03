@@ -328,3 +328,7 @@ La alternancia en los factores de división entre niveles contribuye a mantener 
 3. Sahr, K., White, D., & Kimerling, A. J. (2003). Geodesic discrete global grid systems. Cartography and Geographic Information Science, 30(2), 121-134.
 4. What3Words: Un sistema alternativo de codificación geográfica. [https://what3words.com/about](https://what3words.com/about)
 5. Geohash: Sistema de geocodificación público. [https://en.wikipedia.org/wiki/Geohash](https://en.wikipedia.org/wiki/Geohash)
+
+## 9. Licencia
+Apache 2.0  
+http://www.apache.org/licenses/
