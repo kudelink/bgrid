@@ -1,5 +1,8 @@
 # Sistema de Coordenadas BGrid
 
+[![English](https://img.shields.io/badge/lang-en-red.svg)](README_EN.md) 
+[![Español](https://img.shields.io/badge/lang-es-yellow.svg)](README.md)
+
 ![images/bgrid_general.png](images/bgrid_general.png)
 
 ## Web para su testeo: https://bgrid.org
